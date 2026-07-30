@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12023.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram", "Instagram\Instagram.csproj", "{92C16AC8-7F91-4C2B-9F86-9FE5BF27E14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C16AC8-7F91-4C2B-9F86-9FE5BF27E14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C16AC8-7F91-4C2B-9F86-9FE5BF27E14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C16AC8-7F91-4C2B-9F86-9FE5BF27E14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C16AC8-7F91-4C2B-9F86-9FE5BF27E14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A16E8E4-20EE-411C-922C-5264319C0BEA}
+	EndGlobalSection
+EndGlobal

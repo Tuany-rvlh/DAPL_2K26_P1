@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Rider/ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OneDrive
+*.tmp

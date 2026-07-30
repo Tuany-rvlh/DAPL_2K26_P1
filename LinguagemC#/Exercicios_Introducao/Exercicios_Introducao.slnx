@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CorConsole/CorConsole.csproj" />
+  <Project Path="Hash/Hash.csproj" />
+  <Project Path="NumPrimo/NumPrimo.csproj" />
+  <Project Path="TesteC#/TesteC#.csproj" />
+</Solution>
