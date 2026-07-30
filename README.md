@@ -36,6 +36,17 @@ The repository focuses on learning **C# programming**, covering console applicat
 
 ---
 
+# 🗂️ Table of Contents
+
+- [👨‍💻 About the Repository](#-about-the-repository)
+- [📁 Project Structure](#-project-structure)
+- [💻 C# Console Applications](#-c-console-applications)
+- [🖥️ Windows Forms Applications](#️-windows-forms-applications)
+- [📚 Learning Topics](#-learning-topics)
+- [📈 Repository Status](#-repository-status)
+
+---
+
 # 🗂️ Project Structure
 
 ```text
@@ -137,6 +148,10 @@ mindmap
 
 **Technical Course in Systems Development**
 
-**ETE FMC — 2026**
+**Francisco Moreira da Costa Electronics Technical School (ETE FMC)**
+
+**Advisor: Prof. Daniel Mosca**
+
+**2026**
 
 </div>
