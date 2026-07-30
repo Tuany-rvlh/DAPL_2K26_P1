@@ -8,10 +8,19 @@
 
 <br>
 
+<br>
+
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.7.2-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-Desktop_Apps-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-2026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Console Applications](https://img.shields.io/badge/Console_Applications-C%23-239120?style=for-the-badge)
+![GUI Development](https://img.shields.io/badge/GUI-Development-00A4EF?style=for-the-badge)
+<br>
 
 </div>
 
@@ -51,38 +60,6 @@ DAPL_2K26_P1/
 
 ---
 
-# 🏗️ Development Map
-
-```mermaid
-mindmap
-  root((DAPL_2K26))
-
-    C#
-      Variables
-      Conditions
-      Loops
-      Functions
-
-    Console Applications
-      Calculators
-      Games
-      Algorithms
-      Data Validation
-
-    Windows Forms
-      GUI Development
-      Events
-      Components
-      Desktop Apps
-
-    Programming Skills
-      Logic
-      Problem Solving
-      Git & GitHub
-```
-
----
-
 # 💻 C# Console Applications
 
 Projects focused on programming fundamentals through terminal applications.
@@ -107,30 +84,6 @@ Desktop applications developed with **C# Windows Forms**, applying graphical int
 | 🍰 KikisCakes | Food/product application prototype | GUI components |
 | 🚚 Delivery App | Practical project under development | Images, Buttons, ListBox |
 
----
-
-# 🚚 Practical Project — Delivery Application
-
-Desktop application developed using **C# Windows Forms**, simulating a food delivery system.
-
-### Main Features
-
-- 🍔 Product visualization with images;
-- 🛒 Adding items to the order;
-- 📋 Order summary;
-- 🎨 Custom visual identity;
-- 🖥️ Single-screen interface.
-
-### Technologies
-
-| Technology | Usage |
-|---|---|
-| C# | Application logic |
-| Windows Forms | Graphical interface |
-| Visual Studio | Development environment |
-
-> [!NOTE]
-> The project is currently under development and will receive future improvements.
 
 ---
 
@@ -168,7 +121,7 @@ mindmap
 > [!NOTE]
 > This repository represents the first stage of development with C#, progressing from basic console applications to graphical desktop systems.
 
-**Status:** 🟢 Active Development
+**Status:** Active Development
 
 ---
 
